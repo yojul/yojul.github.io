@@ -1,61 +1,54 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jules Sintes",
+    "email": "jules.sintes@inria.fr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yojul.github.io",
+    "summary": "PhD student in Decentralized Multi-Agent Reinforcement Learning at INRIA Paris",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Paris",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=HXisMhwAAAAJ&hl=fr&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0001-0213-8690"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/yojul"
       }
     ]
   },
-  "work": [],
+  "work": [
+    
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Chalmers University of Technology",
+      "area": "MSc in Complex Adaptive Systems - Machine Learning & Data Science Track",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "École Centrale de Nantes",
+      "area": "Engineering Degree, specialization in Material Science & Mechanical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
