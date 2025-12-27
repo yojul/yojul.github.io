@@ -1,7 +1,7 @@
 ---
 title: "Multi-task French speech analysis with deep learning Emotion recognition and speaker diarization models for end-to-end conversational analysis tool"
 collection: publications
-category: manuscripts
+category: thesis
 permalink: /publication/2023-01-01-multi-task-french-speech-analysis
 excerpt: 'This work explores multi-task learning for French speech analysis, combining emotion recognition and speaker diarization models into a single end-to-end conversational analysis tool.'
 date: 2023-01-01
