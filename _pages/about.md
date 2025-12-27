@@ -11,13 +11,13 @@ I am a PhD candidate in the [ARGO Team](https://www.di.ens.fr/argo/)  at INRIA P
 
 Industrial Experiences
 =====
-Prior to the beginning of my PhD, I worked during 2 years as a Data-Scientist in industry. I was involved in various industrial AI projects:
-- Reinforcement Learning and Deep Learning for topology management recommender system for powergrid in close collaboration with **RTE** (French Transmission System Operator).
-- Automatic Speech Recognition and Speaker Diarization for the **Senate** (upper house of the French Parliament). 
-- Search engine for information retrieval in large document corpus and Retrieval Augmented Generation for **Cartier**.
+Prior to the beginning of my PhD, I worked during 2 years as a Data-Scientist in the industry. I was involved in various industrial AI projects:
+- **Reinforcement Learning and Deep Learning** for topology management recommender system for powergrid in close collaboration with **RTE** (French Transmission System Operator).
+- **Automatic Speech Recognition and Speaker Diarization** for the **Senate** (upper house of the French Parliament). 
+- **Search engine for information retrieval** in large document corpus and Retrieval Augmented Generation for **Cartier**.
 - Various small internal R&D projects around Natural Language Processing, Large Language Models and Computer Vision.
 
-Before that, I worked during one year as a production engineer at **Syos**, a startup that creates tailormade 3D printed saxophone mouthpieces.
+Before that, I worked during one year as a R&D and production engineer at **Syos**, a startup that creates tailormade 3D printed saxophone mouthpieces.
 
 Open-Source Contributions
 =====

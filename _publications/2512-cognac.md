@@ -1,0 +1,13 @@
+---
+title: "COGNAC: Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-12-01-cognac
+excerpt: 'Many controlled complex systems have an inherent network structure, such as power grids, traffic light systems, or computer networks. Automatically controlling these systems is highly challenging due to their combinatorial complexity. Standard single-agent reinforcement learning (RL) approaches often struggle with the curse of dimensionality in such settings. In contrast, the multi-agent paradigm offers a promising solution by distributing decision-making, thereby addressing both algorithmic and combinatorial challenges. In this paper, we introduce COGNAC (COoperative Graph-based Networked Agent Challenges), a collection of cooperative graph-structured environments designed to facilitate experiments across different graph sizes and topologies. COGNAC bridges the gap between theoretical research in network control and practical multi-agent RL (MARL) applications by offering a flexible, scalable platform with a suite of simple yet highly challenging problems rooted in networked environments. Our benchmarks also support the development and evaluation of decentralized and distributed learning algorithms, motivated by the growing interest in more sustainable and frugal AI systems. Experiments on COGNAC show that independent actor–critic learning (IPPO) yields the highest-quality joint policies while scaling robustly to large network sizes with minimal hyperparameter tuning. Value-based independent learning (IDQL) typically needs substantially more training and is less reliable on combinatorial tasks. In contrast, standard Centralized-Training Decentralized-Execution (CTDE) methods and fully centralized training are slower to converge, less stable, and struggle to generalize to larger, more interdependent networks. These results suggest that CTDE approaches likely need extra information or inter-agent communication to fully capture the underlying network structure of each problem'
+date: 2025-12-01
+venue: 'NeurIPS 2025'
+slidesurl: ''
+paperurl: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/121486'
+bibtexurl: 'http://academicpages.github.io/files/sintes2023multi.bib'
+citation: 'Sintes, Jules. (2025). &quot; COGNAC: Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning &quot;'
+---
