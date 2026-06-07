@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Jules Sintes | PhD Candidate in Reinforcement Learning (MARL)"
 author_profile: true
 redirect_from: 
   - /about/
